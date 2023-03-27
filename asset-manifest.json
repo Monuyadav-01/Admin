@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Admin.git/static/css/main.0d30e254.css",
+    "main.js": "/Admin.git/static/js/main.64bdd4c1.js",
+    "static/js/787.6073a8c2.chunk.js": "/Admin.git/static/js/787.6073a8c2.chunk.js",
+    "index.html": "/Admin.git/index.html",
+    "main.0d30e254.css.map": "/Admin.git/static/css/main.0d30e254.css.map",
+    "main.64bdd4c1.js.map": "/Admin.git/static/js/main.64bdd4c1.js.map",
+    "787.6073a8c2.chunk.js.map": "/Admin.git/static/js/787.6073a8c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d30e254.css",
+    "static/js/main.64bdd4c1.js"
+  ]
+}
